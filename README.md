@@ -28,10 +28,5 @@
 
 ![表情](https://cdn.u1.huluxia.com/g3/M02/E9/0B/wKgBOV2b8tSAb9RdAABR3-XN9bs744.jpg "表情")
 
-## 小博客
-
-[KIENG博客](https://blog.kieng.cn "KIENG博客")
-
-## 使用协议
-
-爱鸡儿咋用咋用.
+## 调用API
+curl -s https://www.recordaily.com/qiang.php --date 'ip=8.8.8.8&port=53'
